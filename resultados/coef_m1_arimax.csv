@@ -1,0 +1,8 @@
+termino,estimado,error_est,estadistico,p_valor,significativo
+ar1,1.0263,0.1144,8.9681,0,TRUE
+ar2,-0.0406,0.0992,-0.4094,0.6822,FALSE
+ar3,0.6233,0.0953,6.542,0,TRUE
+ar4,-0.6619,0.0695,-9.5184,0,TRUE
+ma1,-0.7788,0.1464,-5.3215,0,TRUE
+ipi,-8e-4,0.003,-0.2596,0.7952,FALSE
+covid,0.068,0.1072,0.6347,0.5257,FALSE

@@ -1,0 +1,4 @@
+modelo,especificacion,AIC,BIC
+ARIMA,"ARIMA(4,1,1)",-52.78,-35.44
+ARIMA-X (IPI + COVID),"Regression with ARIMA(4,1,1) errors",-49.35,-26.23
+ARIMA-X (IPI con rezagos + COVID),"Regression with ARIMA(4,1,1) errors",-46.33,-17.43

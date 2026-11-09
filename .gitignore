@@ -1,0 +1,30 @@
+# --- renv (no subir los paquetes instalados) ---
+renv/library/
+renv/staging/
+renv/local/
+
+# --- R ---
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- LaTeX ---
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+desktop.ini
